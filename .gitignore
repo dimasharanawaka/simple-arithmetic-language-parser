@@ -1,0 +1,14 @@
+# Compiled executable
+parser
+parser.exe
+
+# Object files
+*.o
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
